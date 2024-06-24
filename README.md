@@ -28,7 +28,7 @@ pip install -r requirements.txt
 OPENAI_API_KEY = "Put_Your_Key"
 ```
 ```ini
-TELEGRAM_BOT_TOKEN= = "Put_Your_token"
+TELEGRAM_BOT_TOKEN = "Put_Your_token"
 ```
 ### (4) Run the following
 ```bash
